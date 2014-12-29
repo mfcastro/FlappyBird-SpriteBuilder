@@ -21,6 +21,8 @@
     // this will get called every time the player touches the screen
     [character flap];
     [character flap];
+    [character flap];
+    [character flap];
 }
 
 @end
